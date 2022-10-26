@@ -1,5 +1,8 @@
 A Customized Command and Control Center for Red Team and Adversary Simulation
 
+![alt text](https://bruteratel.com/images/index_img/main.png)
+
+
 DNS Over HTTPS
 Alongside the default HTTPS connections, Badger's DNS over HTTPS provides usability of newly bought domains without the the need of domain fronting or redirector, all the while providing a backup option to be able to switch to other HTTPS profiles on the fly
 ![alt text](https://bruteratel.com/images/index_img/doh_profile.png)
