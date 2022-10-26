@@ -1,1 +1,1 @@
-# BruteRatel-1.2.2---Scandinavian-Defense-
+# BruteRatel-1.2.2-Scandinavian-Defense
