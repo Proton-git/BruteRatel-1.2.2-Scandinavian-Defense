@@ -1,0 +1,4 @@
+creduser,credpass,creddomain,crednote
+administrator,admin@123,jupiter.corp,Domain Admin
+dev,password@123,jupiter.corp,Domain User Local Admin
+dev-user,password,localhost,Local Admin
